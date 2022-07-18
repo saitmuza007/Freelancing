@@ -1,4 +1,4 @@
-#Project Name : Freelancing Platform
+# Freelancing Platform
 
 Product Name : UpScale
 

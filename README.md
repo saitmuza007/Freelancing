@@ -6,3 +6,9 @@ User Story : This MVP is based on connecting various skilled talents accross the
 
 Pain-Point : Connecting with various skilled personals for development or any other strategical non technical work irrespective of location with a global access to upscaling and upfronting ones skill. All under the same umbrella.
 
+# Technological Stack 
+
+Front-End : React Js, BootStrap , Material CSS , Google Fonts
+
+Back-End : SpringBoot, Java , MySql , Firebase
+
